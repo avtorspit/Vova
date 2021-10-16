@@ -1,0 +1,76 @@
+body {
+font-family: 'Lobster', cursive;
+padding: 100px 0;
+background: url("../img/1.jpg") center no-repeat;
+background-size: cover ;
+background-attachment: fixed;
+
+
+}
+h2 {
+    font-size: 30px;
+}
+
+P {
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: left;
+    line-height: 35px;
+    text-weight: ;
+    font-family: 'Source Serif Pro', serif;
+}
+
+
+.container {
+    width: 800px;
+    min-height: 800px;
+    border: 10px solid #fff;
+    display: block;
+    margin-left: 270px;
+    margin-right: 270px;
+
+    text-align: center;
+    
+    background: #fff;
+
+
+}
+
+.photo1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    border: 5px solid #fff;
+    margin-top: 20px;
+}
+.photo2 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    border: 5px solid #fff;
+
+}
+.photo3 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    border: 5px solid #fff;
+}
+.photo4 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    border: 5px solid #fff;
+}
+.photo5 {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    border: 5px solid #fff;
+}
+.a1:hover {
+
+    filter: alpha (Opacity=25);/* прозрачность для IE */
+
+    opacity: 0.25;/* прозрачность для других браузеров */

@@ -1,0 +1,21 @@
+      body{
+            background:url("../img/1.jpg") no-repeat center;
+            background-size: cover;
+            background-attachment: fixed;
+        }
+
+       table{
+            border-style: solid;
+            font-size: 18pt;
+            background: #66CDAA;
+        }
+        caption{
+            background: #32CD32;
+            font-family:'Courier New', Courier, monospace;
+            font-size:24pt;
+        }
+        
+        img{
+            width: 18%;
+            height: 14%;
+        }
